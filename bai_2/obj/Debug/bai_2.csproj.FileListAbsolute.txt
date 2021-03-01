@@ -1,0 +1,10 @@
+C:\Users\Admin\Desktop\project_winform\bai_2\bin\Debug\bai_2.exe.config
+C:\Users\Admin\Desktop\project_winform\bai_2\bin\Debug\bai_2.exe
+C:\Users\Admin\Desktop\project_winform\bai_2\bin\Debug\bai_2.pdb
+C:\Users\Admin\Desktop\project_winform\bai_2\obj\Debug\bai_2.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\project_winform\bai_2\obj\Debug\bai_2.Form1.resources
+C:\Users\Admin\Desktop\project_winform\bai_2\obj\Debug\bai_2.Properties.Resources.resources
+C:\Users\Admin\Desktop\project_winform\bai_2\obj\Debug\bai_2.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\project_winform\bai_2\obj\Debug\bai_2.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\project_winform\bai_2\obj\Debug\bai_2.exe
+C:\Users\Admin\Desktop\project_winform\bai_2\obj\Debug\bai_2.pdb
